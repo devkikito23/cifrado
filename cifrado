@@ -1,1 +1,1 @@
--- nose
+loadstring(game:HttpGet("https://raw.githubusercontent.com/devkikito23/Script-MultiLoad/refs/heads/main/Script-Menu"))()
