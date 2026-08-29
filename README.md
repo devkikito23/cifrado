@@ -1,0 +1,2 @@
+# cifrado
+Codigo cifrado autoexecutor
